@@ -1,0 +1,38 @@
+package de.zappler2k.api.mysql.manager.impl;
+
+public enum DataType {
+
+    CHAR,
+    VARCHAR,
+    BINARY,
+    VARBINARY,
+    TINYBLOB,
+    TINYTEXT,
+    TEXT,
+    BLOB,
+    MEDIUMTEXT,
+    MEDIUMBLOB,
+    LONGTEXT,
+    LONGBLOB,
+    ENUM,
+    SET,
+    BIT,
+    TINYINT,
+    BOOL,
+    BOOLEAN,
+    SMALLINT,
+    MEDIUMINT,
+    INT,
+    INTEGER,
+    BIGINT,
+    FLOAT,
+    DOUBLE,
+    PRECISION,
+    DECIMAL,
+    DEC,
+    DATE,
+    DATETIME,
+    TIMESTAMP,
+    TIME,
+    YEAR;
+}

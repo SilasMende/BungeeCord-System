@@ -1,0 +1,5 @@
+rootProject.name = 'BungeeCord-System'
+include 'api'
+include 'bungee'
+
+
